@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="scorex">Score X</string>
+    <string name="scoreo">Score O</string>
+    <string name="ganox">Win x</string>
+    <string name="reset">Reset</string>
+    <string name="uno">2</string>
+    <string name="cero">0</string>
+    <string name="dos">1</string>
+</resources>
